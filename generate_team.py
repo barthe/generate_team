@@ -1,7 +1,7 @@
 
 import random
 
-members = [ "Samuel", "Thomas", "Thibault", "Cedric", "Gael", "Benjamin", "Nicolas LDP", "Nicolas Labro", "Dieter", "Lucas" ] 
+members = [ "Samuel", "Thomas", "Thibault", "Cedric", "Gael", "Benjamin", "Nicolas LDP", "Nicolas Labro", "Dieter", "Lucas", "mael" ] 
 
 team = []
 i=1
